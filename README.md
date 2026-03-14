@@ -1,3 +1,1 @@
-## Construction Website Preview
-
-![Construction Website](construction-homepage-preview.jpg)
+![Construction Website](Construction-Template002.jpg)
